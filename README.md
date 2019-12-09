@@ -1,2 +1,37 @@
-# soc14lmed14nc0d3-4pp-12072019
-soc14lmed14 and c0d3 is an idea to bring the information to the client both at user or professional level, you want to develop an app for your business or a web site, you want security and storage in the cloud, you like social networks, ecomerce, studies sem seo, you like electric devices and you have a last generation phone, but you see programming a slab, you know everything that your phone has already installed and you squeeze it to the maximum, you have heard about digital currencies bitcoin pound, grow hacking and digital marketing, yes, but I already have a website, it is safe, or not, it gives me all the services that are easily implementable, digital signatures and ssl services, cloud storage, management app, my wifi is perfectly configured, or no, security is not for me, privacy and your rights to the data that you have at the mercy of anyone are not important, yes, ... we introduce tools that are revolutionizing the markets before the legacy of the bigdata but also soc14lmed14 on the other hand has its own themes and opinion, daily development and cordiality as much as possible with its themes and opinions, on the part of `n c0d3 brings you its informatics topics that you have at your disposal
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/viccanto/soc14lmed14nc0d3-4pp-12072019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viccanto/soc14lmed14nc0d3-4pp-12072019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
